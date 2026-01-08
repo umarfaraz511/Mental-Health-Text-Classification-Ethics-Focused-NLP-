@@ -90,7 +90,7 @@ clear disclaimers
 
 safe user messaging (support resources, escalation guidance)
 
-
+![model output](HM-accuracy.png)
 
 
 License

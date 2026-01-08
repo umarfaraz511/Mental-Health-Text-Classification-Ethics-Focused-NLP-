@@ -60,9 +60,10 @@ clear disclaimers
 safe user messaging (support resources, escalation guidance)
 
 ![model output](HM-1-accuracy.png)
-![model output](HM-1-accuracy.png)
-![model output](HM-1-accuracy.png)
-![model output](HM-1-accuracy.png)
+![model output](HM-2.png)
+![model output](HM-3.png)
+![model output](HM-4.png)
+![model output](HM-5.png)
 
 
 **License**

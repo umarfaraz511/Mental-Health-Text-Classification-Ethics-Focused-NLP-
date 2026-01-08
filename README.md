@@ -4,7 +4,6 @@ This project fine-tunes a pretrained NLP model to classify mental-health-related
 
 > Important: This project is for **research and educational purposes**. It is **not** a medical diagnostic system.
 
----
 
 ## Project Objectives
 
@@ -21,16 +20,11 @@ This project fine-tunes a pretrained NLP model to classify mental-health-related
   - **Loss**
 - Emphasize ethical considerations: privacy, misuse prevention, and careful interpretation.
 
----
 
 ## Dataset
 
 - Source: Kaggle  
 - Path used in Colab:
-
-
-
-
 
 
 Running the Project (Colab)
